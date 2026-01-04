@@ -13,7 +13,7 @@ This analysis explores 5 high level business questions to surface insights on pr
 - What products are most often sold together?
 - What product sold the most? Why do you think it sold the most?
 
-### Dataset Description
+### Dataset Description: [sample](Sales_April_2019.csv)
 The database captures 12 months worth of transactional sales data at the order level. The consolidated dataset contains hundreds of thousands of order entries broken down by order identifiers, product details, quantities, unit prices, purchase timestamps, and customer purchase addresses.
 
 Data cleaning process was carried out to prepare the dataset for analysis, this includes:
